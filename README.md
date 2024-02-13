@@ -21,5 +21,5 @@ The Color Picker Chrome Extension is a tool that allows users to easily pick and
 
 ## Screenshots
 
-<img width="943" alt="image" src="https://github.com/sejal3006/Cello_world_clone/assets/136917680/fe9deb96-24ab-48e6-89af-0a97c1c9d88d">
-<img width="943" alt="image" src="https://github.com/sejal3006/Cello_world_clone/assets/136917680/fe9deb96-24ab-48e6-89af-0a97c1c9d88d">
+<img width="943" alt="image" src="https://github.com/Pravin-M-24/Color_picker_Chrome_extension_mct/blob/main/Screenshot%20(268).png">
+<img width="943" alt="image" src="https://github.com/Pravin-M-24/Color_picker_Chrome_extension_mct/blob/main/Screenshot%20(269).png">
