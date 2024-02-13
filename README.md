@@ -23,5 +23,5 @@ The Color Picker Chrome Extension is a tool that allows users to easily pick and
 
 ## Screenshots
 
-![Screenshot 1](Screenshot (268).png)
-![Screenshot 2](Screenshot (269).png)
+![Screenshot 1](Screenshot(268).png)
+![Screenshot 2](Screenshot(269).png)
